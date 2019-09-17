@@ -1,0 +1,15 @@
+C:\Users\Mehdi\source\repos\Interview\Interview\bin\Release\Interview.exe.config
+C:\Users\Mehdi\source\repos\Interview\Interview\bin\Release\Interview.exe
+C:\Users\Mehdi\source\repos\Interview\Interview\bin\Release\Interview.pdb
+C:\Users\Mehdi\source\repos\Interview\Interview\bin\Release\EntityFramework.dll
+C:\Users\Mehdi\source\repos\Interview\Interview\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\Mehdi\source\repos\Interview\Interview\bin\Release\EntityFramework.xml
+C:\Users\Mehdi\source\repos\Interview\Interview\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\Mehdi\source\repos\Interview\Interview\obj\Release\Interview.csprojAssemblyReference.cache
+C:\Users\Mehdi\source\repos\Interview\Interview\obj\Release\Interview.Form1.resources
+C:\Users\Mehdi\source\repos\Interview\Interview\obj\Release\Interview.Properties.Resources.resources
+C:\Users\Mehdi\source\repos\Interview\Interview\obj\Release\Interview.csproj.GenerateResource.cache
+C:\Users\Mehdi\source\repos\Interview\Interview\obj\Release\Interview.csproj.CoreCompileInputs.cache
+C:\Users\Mehdi\source\repos\Interview\Interview\obj\Release\Interview.csproj.CopyComplete
+C:\Users\Mehdi\source\repos\Interview\Interview\obj\Release\Interview.exe
+C:\Users\Mehdi\source\repos\Interview\Interview\obj\Release\Interview.pdb
